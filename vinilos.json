@@ -1,0 +1,1833 @@
+{
+  "artists": [
+    {
+      "artist": "Rudy",
+      "album": [
+        {
+          "title": "Different Words",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Ray",
+      "album": [
+        {
+          "title": "I'm Not a Dreamer",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Ray Foster",
+      "album": [
+        {
+          "title": "Run to Me",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Regina",
+      "album": [
+        {
+          "title": "Baby Love",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Ric Fellini",
+      "album": [
+        {
+          "title": "Souvenir D'amour",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Rick Astley",
+      "album": [
+        {
+          "title": "My Arms Keep Missing You",
+          "year": 1987,
+          "starred": true
+        },
+        {
+          "title": "Whenever you need somebody",
+          "year": 1987,
+          "starred": true
+        },
+        {
+          "title": "Never Gonna Give You Up",
+          "year": 1988,
+          "starred": true
+        },
+        {
+          "title": "Together Forever",
+          "year": 1988,
+          "starred": true
+        },
+        {
+          "title": "She wants to dance with me",
+          "year": 1988,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Roki Maltese",
+      "album": [
+        {
+          "title": "Warrior",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Robbie Nevil",
+      "album": [
+        {
+          "title": "C'est La vie",
+          "year": 1987,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Robin Beck",
+      "album": [
+        {
+          "title": "First Time",
+          "year": 1988,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Robin Beck",
+      "album": [
+        {
+          "title": "First Time",
+          "year": 1982,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Ross",
+      "album": [
+        {
+          "title": "Chained by Love",
+          "year": 1986
+        },
+        {
+          "title": "How are you?",
+          "year": 1988
+        },
+        {
+          "title": "Goose Bay",
+          "year": 1989
+        },
+        {
+          "title": "Don't Stop",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "Roxette",
+      "album": [
+        {
+          "title": "The Look",
+          "year": 1988,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Rody & Co.",
+      "album": [
+        {
+          "title": "Play Dance",
+          "year": 1987,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Sade",
+      "album": [
+        {
+          "title": "Promise",
+          "year": 1990,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Sal y Pimienta",
+      "album": [
+        {
+          "title": "La Juerga",
+          "year": 1991,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Sabrina",
+      "album": [
+        {
+          "title": "Boys",
+          "year": 1987,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Spagna",
+      "album": [
+        {
+          "title": "Call Me",
+          "year": 1987,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Secret Lovers",
+      "album": [
+        {
+          "title": "I See It In Your eyes",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Silent Circle",
+      "album": [
+        {
+          "title": "Love is Just a Word",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Sharon Scott",
+      "album": [
+        {
+          "title": "Oh What a Night for Love",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Sisley Ferre",
+      "album": [
+        {
+          "title": "Give Me Your Love",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Style",
+      "album": [
+        {
+          "title": "Run For Your Love",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Stephen Jillian",
+      "album": [
+        {
+          "title": "Sarah Sarah",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "Stacey Q",
+      "album": [
+        {
+          "title": "Two of hearts",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "S-Express",
+      "album": [
+        {
+          "title": "Theme from S-Express",
+          "year": 1988,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Stallone",
+      "album": [
+        {
+          "title": "Yo el Halcon",
+          "year": 1987,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Special Dance Mix",
+      "album": [
+        {
+          "title": "Happy Disco",
+          "year": 1982,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Samantha fox",
+      "album": [
+        {
+          "title": "I Surrender",
+          "year": 1987,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Santana",
+      "album": [
+        {
+          "title": "Zebop!",
+          "year": 1981,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Sandra",
+      "album": [
+        {
+          "title": "Heaven Can Wait",
+          "year": 1988,
+          "starred": true
+        },
+        {
+          "title": "Everlasting Lover",
+          "year": 1987,
+          "starred": true
+        },
+        {
+          "title": "Midnight Man",
+          "year": 1987,
+          "starred": true
+        },
+        {
+          "title": "Maria Magdalena",
+          "year": 1985,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Solid Strangers",
+      "album": [
+        {
+          "title": "Vision (of the Night)",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Spandau Ballet",
+      "album": [
+        {
+          "title": "Parade",
+          "year": 1984,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Status Quo",
+      "album": [
+        {
+          "title": "In The Army Now",
+          "year": 1986,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Super Boy",
+      "album": [
+        {
+          "title": "Hey Tonight",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Swan",
+      "album": [
+        {
+          "title": "General Custer",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Self-Service",
+      "album": [
+        {
+          "title": "Special Night",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Sexual Fever",
+      "album": [
+        {
+          "title": "De Gama",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Sophie",
+      "album": [
+        {
+          "title": "Broken Tale",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Solo",
+      "album": [
+        {
+          "title": "Harem",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Sinitta",
+      "album": [
+        {
+          "title": "So Macho",
+          "year": 1986,
+          "starred": true
+        },
+        {
+          "title": "GTO",
+          "year": 1987,
+          "starred": true
+        },
+        {
+          "title": "Feels Like The First Time",
+          "year": 1986,
+          "starred": true
+        },
+        {
+          "title": "Cross My Broken Heart",
+          "year": 1988,
+          "starred": true
+        }
+      ]
+    },
+    {
+      "artist": "Silvester",
+      "album": [
+        {
+          "title": "Living For The City",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Steve Clark",
+      "album": [
+        {
+          "title": "You Can Say To Everybody",
+          "year": 1988
+        },
+        {
+          "title": "No More Love",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Secret Service",
+      "album": [
+        {
+          "title": "Let us Dance a Little More",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Squash Gang",
+      "album": [
+        {
+          "title": "I Want an Illusion",
+          "year": 1986
+        },
+        {
+          "title": "Moving your Hips",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Savage",
+      "album": [
+        {
+          "title": "Time",
+          "year": 1985
+        }
+      ]
+    },
+    {
+      "artist": "Silver Pazzoli",
+      "album": [
+        {
+          "title": "Love is the Best",
+          "year": 1989
+        },
+        {
+          "title": "From You to Me",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Soulsister",
+      "album": [
+        {
+          "title": "The Way To Your Heart",
+          "year": 1989
+        }
+      ]
+    },
+    {
+      "artist": "Teresa Rabal",
+      "album": [
+        {
+          "title": "Navidad a Tope",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "The Police",
+      "album": [
+        {
+          "title": "Reggatta de Blanc",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "artist": "Thompson Twins",
+      "album": [
+        {
+          "title": "Get That Love",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "The Housemartins",
+      "album": [
+        {
+          "title": "Build",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Tasha",
+      "album": [
+        {
+          "title": "Don't let go",
+          "year": 1987
+        },
+        {
+          "title": "you only you",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "The Blow Monkeys",
+      "album": [
+        {
+          "title": "It Doesn't Have To Be That Way",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "The Burgers",
+      "album": [
+        {
+          "title": "Laugh Clown Laugh",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "The Style Council",
+      "album": [
+        {
+          "title": "Promised Land",
+          "year": 1989
+        }
+      ]
+    },
+    {
+      "artist": "The Christians",
+      "album": [
+        {
+          "title": "Born Again",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "The Communards",
+      "album": [
+        {
+          "title": "Never Can Say Goodbye",
+          "year": 1987
+        },
+        {
+          "title": "Don't leave me this way",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "album": [
+        {
+          "title": "Stereotomy",
+          "year": 1985
+        }
+      ]
+    },
+    {
+      "artist": "Taylor dayne",
+      "album": [
+        {
+          "title": "Tell It to My Heart",
+          "year": 1987
+        },
+        {
+          "title": "Don't rush me",
+          "year": 1989
+        }
+      ]
+    },
+    {
+      "artist": "Toto",
+      "album": [
+        {
+          "title": "Jingo",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Tony Terry",
+      "album": [
+        {
+          "title": "She's Fly",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Tia",
+      "album": [
+        {
+          "title": "Boy Toy",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Therean Maiuko",
+      "album": [
+        {
+          "title": "Undercover Lover",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Total Toly",
+      "album": [
+        {
+          "title": "The Witch of New Orleans",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Two of us",
+      "album": [
+        {
+          "title": "Two of us",
+          "year": 1985
+        }
+      ]
+    },
+    {
+      "artist": "The Subtones",
+      "album": [
+        {
+          "title": "love Is a Gun",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Tina",
+      "album": [
+        {
+          "title": "Crazy for You",
+          "year": 1988
+        },
+        {
+          "title": "Boom Boom",
+          "year": 1989
+        }
+      ]
+    },
+    {
+      "artist": "Tom Hooker",
+      "album": [
+        {
+          "title": "Feeling okay",
+          "year": 1988
+        },
+        {
+          "title": "Looking for Love",
+          "year": 1986
+        },
+        {
+          "title": "Only One",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "The Caravan",
+      "album": [
+        {
+          "title": "The World Beat",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Turntable Orchestra",
+      "album": [
+        {
+          "title": "You're Gonna Miss Me",
+          "year": 1989
+        }
+      ]
+    },
+    {
+      "artist": "Tozo",
+      "album": [
+        {
+          "title": "Shankle",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "Topo & Roby",
+      "album": [
+        {
+          "title": "Under The Ice",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Tracy Spencer",
+      "album": [
+        {
+          "title": "Love Is Like a Game",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "The Boys",
+      "album": [
+        {
+          "title": "Dial My Heart",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "Tommy",
+      "album": [
+        {
+          "title": "One Night",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Trillion",
+      "album": [
+        {
+          "title": "Canta Conmigo",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Toney Lee",
+      "album": [
+        {
+          "title": "Night Lights",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "The The",
+      "album": [
+        {
+          "title": "Infested",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Urbaniax",
+      "album": [
+        {
+          "title": "Burning Circuits",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Ziad Rye",
+      "album": [
+        {
+          "title": "Don't Kill Me With Your Eyes",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "Vangelis",
+      "album": [
+        {
+          "title": "1492",
+          "year": 1992
+        }
+      ]
+    },
+    {
+      "artist": "Viola Wills y Noel Mc Calla",
+      "album": [
+        {
+          "title": "Take One Step Forward",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Whitney Houston",
+      "album": [
+        {
+          "title": "I Wanna Dance with Somebody",
+          "year": 1987
+        },
+        {
+          "title": "One Moment in Time",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "William King",
+      "album": [
+        {
+          "title": "Robin Hood",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "William Pitt",
+      "album": [
+        {
+          "title": "City Lights",
+          "year": 1986
+        },
+        {
+          "title": "Funny Girl",
+          "year": 1987
+        }
+      ]
+    },
+    {
+      "artist": "Womack & Womack",
+      "album": [
+        {
+          "title": "Teardrops",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "Working Week",
+      "album": [
+        {
+          "title": "Too Much Time",
+          "year": 1986
+        }
+      ]
+    },
+    {
+      "artist": "Yoh-Yo",
+      "album": [
+        {
+          "title": "The main attraction",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "artist": "Luis Cobos",
+      "album": [
+        {
+          "title": "Zarzuela",
+          "year": 1982
+        }
+      ]
+    },
+  {
+    "artist": "Leslie",
+    "album": [
+      {
+        "title": "You Can't Stop the Music",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Lena",
+    "album": [
+      {
+        "title": "Run to Me",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Lee Young",
+    "album": [
+      {
+        "title": "Napoleon",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Les Lee San Francisco",
+    "album": [
+      {
+        "title": "Love Can't Turn Around",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Laser Dance",
+    "album": [
+      {
+        "title": "Power Run",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Lisa",
+    "album": [
+      {
+        "title": "Love is like an Itching in My Heart",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Leopold Nous & Vous",
+    "album": [
+      {
+        "title": "C'est l'amour",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Latin Rose",
+    "album": [
+      {
+        "title": "Everybody Gay",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Laban",
+    "album": [
+      {
+        "title": "Love in Siberia",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Lee Marrow",
+    "album": [
+      {
+        "title": "Don't Stop The Music",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Limahl",
+    "album": [
+      {
+        "title": "Colour all my days",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Lime",
+    "album": [
+      {
+        "title": "Take The Love",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Linda Jo Rizzo",
+    "album": [
+      {
+        "title": "Heartflash (Tonight)",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Level 42",
+    "album": [
+      {
+        "title": "Heaven in My Hands",
+        "year": 1988
+      },
+      {
+        "title": "Running in the Family",
+        "year": 1987
+      }
+
+    ]
+  },
+  {
+    "artist": "Lalo Rodriguez",
+    "album": [
+      {
+        "title": "Ven Devorame Otra Vez",
+        "year": 1989
+      }
+    ]
+  },
+  {
+    "artist": "Mad Jocks",
+    "album": [
+      {
+        "title": "Jock Mix",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Magazine Go",
+    "album": [
+      {
+        "title": "Reader-Vous Sur la costa del sol",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Mai Tai",
+    "album": [
+      {
+        "title": "History",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "artist": "Maltese",
+    "album": [
+      {
+        "title": "Mama",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Man 2 Man Meets Man Parrish",
+    "album": [
+      {
+        "title": "Male Stripper",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Mandy",
+    "album": [
+      {
+        "title": "Victim of Pleasure",
+        "year": 1988
+      },
+       {
+        "title": "Boys and Girls",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Mandy Smith",
+    "album": [
+      {
+        "title": "I Just Can't Wait",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Mango",
+    "album": [
+      {
+        "title": "Flor de Verano",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Marce",
+    "album": [
+      {
+        "title": "I Want You",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Mark",
+    "album": [
+      {
+        "title": "Tropical Climate",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Martika",
+    "album": [
+      {
+        "title": "More Than You Know",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Matt Bianco",
+    "album": [
+      {
+        "title": "Indigo",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Max Coveri",
+    "album": [
+      {
+        "title": "One More Time",
+        "year": 1986
+      },
+      {
+        "title": "In the Night",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "The Max-Him",
+    "album": [
+      {
+        "title": "Just a Love Affair",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Mayhem",
+    "album": [
+      {
+        "title": "Crashing Down",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Mc Hammer",
+    "album": [
+      {
+        "title": "Please Hammer Don't Hurt Em",
+        "year": 1990
+      }
+    ]
+  },
+  {
+    "artist": "M.C. Miker 'G' & Deejay Sven",
+    "album": [
+      {
+        "title": "And The Bite Goes On",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Megablast",
+    "album": [
+      {
+        "title": "Featuring, Merlin",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Mezzoforte",
+    "album": [
+      {
+        "title": "No Limit",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "N.H. Band",
+    "album": [
+      {
+        "title": "Pop Corn",
+        "year": 1989
+      }
+    ]
+  },
+  {
+    "artist": "Micaela",
+    "album": [
+      {
+        "title": "La Isla Bonita",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Michael Bedford",
+    "album": [
+      {
+        "title": "More Than a Kiss",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": [
+      {
+        "title": "Thriller",
+        "year": 1982
+      },
+      {
+        "title": "I Just can't stop loving you",
+        "year": 1987
+      },
+      {
+        "title": "Bad",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Michelle-Shocked",
+    "album": [
+      {
+        "title": "The Texas Campfire Tapes",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Mike Cannon",
+    "album": [
+      {
+        "title": "Goin' Crazy",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Mike Oldfield",
+    "album": [
+      {
+        "title": "The Time Has Come",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Mike Mareen",
+    "album": [
+      {
+        "title": "Agent of Liberty",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Mike Mission",
+    "album": [
+      {
+        "title": "Strip Tease",
+        "year": 1986
+      },
+      {
+        "title": "Two For Love",
+        "year": 1986
+      },
+      {
+        "title": "The World is You",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "artist": "Milli Vanilli",
+    "album": [
+      {
+        "title": "Girl You Know It's True",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Mirage",
+    "album": [
+      {
+        "title": "Get Down On It",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "artist": "Mister",
+    "album": [
+      {
+        "title": "It's OK.",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Modern Talking",
+    "album": [
+      {
+        "title": "Jet Airlainer",
+        "year": 1987
+      },
+      {
+        "title": "Geronimo's Cadillac",
+        "year": 1986
+      },
+      {
+        "title": "Atlantis is calling",
+        "year": 1986
+      },
+      {
+        "title": "Brother Louie",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Moltocarina",
+    "album": [
+      {
+        "title": "Voice of the Night",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Monkey Business",
+    "album": [
+      {
+        "title": "Every 1's a Winner",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Monte Kristo",
+    "album": [
+      {
+        "title": "The Girl of Lucifer",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Moulin Rouge",
+    "album": [
+      {
+        "title": "High Energy Boy",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Mr Black",
+    "album": [
+      {
+        "title": "Monnalisa",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Nicci",
+    "album": [
+      {
+        "title": "So in love",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "artist": "Night People",
+    "album": [
+      {
+        "title": "Night Girl",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "N+M (The Lady Rappers)",
+    "album": [
+      {
+        "title": "School rap",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Norman",
+    "album": [
+      {
+        "title": "Lover girl",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Novecento",
+    "album": [
+      {
+        "title": "Broadway",
+        "year": 1982
+      }
+    ]
+  },
+  {
+    "artist": "Off",
+    "album": [
+      {
+        "title": "Electrica Salsa(Baba Baba)",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Ofra Haza",
+    "album": [
+      {
+        "title": "Un Nin' Alu",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "oliver Cheatham",
+    "album": [
+      {
+        "title": "S.O.S",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "One Way",
+    "album": [
+      {
+        "title": "Let Me Feel Your Body",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Orient Affair",
+    "album": [
+      {
+        "title": "Classic Dance",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Oscar Benton",
+    "album": [
+      {
+        "title": "Ooh What a Night!",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Panther",
+    "album": [
+      {
+        "title": "Goodbye My Love",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Parallel Lives",
+    "album": [
+      {
+        "title": "Arabian Night",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Patrick Colly",
+    "album": [
+      {
+        "title": "Mandrill",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Patty Devick",
+    "album": [
+      {
+        "title": "Heart To Heart",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Patty Ryan",
+    "album": [
+      {
+        "title": "My Love",
+        "year": 1987
+      },
+      {
+        "title": "Stay With Me Tonight",
+        "year": 1987
+      },
+      {
+        "title": "I don't Wanna Lose you Tonight",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Paul Lekakis",
+    "album": [
+      {
+        "title": "Boom Boom",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Paul Rein",
+    "album": [
+      {
+        "title": "Lady-O",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Paul Sharada",
+    "album": [
+      {
+        "title": "Boxer",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "People like us",
+    "album": [
+      {
+        "title": "Fighting For our Lives",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Pepsi & Shirlie",
+    "album": [
+      {
+        "title": "Heartache",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "album": [
+      {
+        "title": "West End Girls",
+        "year": 1987
+      },
+      {
+        "title": "It's a Sin",
+        "year": 1987
+      },
+      {
+        "title": "Domino Dancing",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Phil Collins",
+    "album": [
+      {
+        "title": "No Jacket Required",
+        "year": 1985
+      },
+      {
+        "title": "Hello, I Must be going",
+        "year": 1982
+      },
+      {
+        "title": "Face Value",
+        "year": 1981
+      }
+    ]
+  },
+  {
+    "artist": "Phil Fearon",
+    "album": [
+      {
+        "title": "I Can Prove It",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Pino D'Angio",
+    "album": [
+      {
+        "title": "Più Sexy",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Proxyon",
+    "album": [
+      {
+        "title": "Space Hopper",
+        "year": 1989
+      }
+    ]
+  },
+  {
+    "artist": "Public Passion",
+    "album": [
+      {
+        "title": "Flash in the Night",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Ravel",
+    "album": [
+      {
+        "title": "Bolero",
+        "year": 1980
+      }
+    ]
+  },
+  {
+    "artist": "Los Rebeldes",
+    "album": [
+      {
+        "title": "Tiempos de Rock and Roll",
+        "year": 1991
+      }
+    ]
+  },
+  {
+    "artist": "Ramsdy Jay and Gang",
+    "album": [
+      {
+        "title": "Devil's Rap",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Ray Connif",
+    "album": [
+      {
+        "title": "El Mundo de Ray Connif",
+        "year": 1977
+      }
+    ]
+  },
+  {
+    "artist": "R. Bais",
+    "album": [
+      {
+        "title": "Dial my Number",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "artist": "Raww",
+    "album": [
+      {
+        "title": "Don't You Try It",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Remix",
+    "album": [
+      {
+        "title": "New Order",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "artist": "Ricky Maltese",
+    "album": [
+      {
+        "title": "Rainy Day",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "artist": "Robert Grace",
+    "album": [
+      {
+        "title": "A dream(Dumio)",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Robert Howard and Kym Mazelle",
+    "album": [
+      {
+        "title": "Wait !",
+        "year": 1989
+      }
+    ]
+  },
+  {
+    "artist": "ROCKY IV",
+    "album": [
+      {
+        "title": "Rocky IV",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "artist": "Roger Meno",
+    "album": [
+      {
+        "title": "I Find the Way",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "artist": "Romana",
+    "album": [
+      {
+        "title": "Come Show your Love",
+        "year": 1988
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+  ]
+}

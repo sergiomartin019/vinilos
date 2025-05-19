@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  #tabla_artistas {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  #tabla_artistas tr th {
+    text-align: center;
+    padding: 8px;
+  }
+  
+  #tabla_artistas tr td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    vertical-align:middle;
+  }
+  
+  .text_title {
+    color:blue;
+    text-align: center;
+    width: 70%;
+  }
+  .text_title:hover {
+    cursor:pointer;
+    color:rgb(3, 3, 77)
+  }
+  
+  .text_year {
+    text-align: center;
+    width: 30%;
+  }
+  
+  #tabla_artistas table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  
+  #tabla_artistas table tr td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  /* Set specific widths for the main table columns */
+  #tabla_artistas > tbody > tr > td:first-child {
+    width: 20%;
+  }
+  
+  #tabla_artistas > tbody > tr > td:last-child {
+    width: 80%;
+  }
+</style>
+  </head>
+  <body>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script>
+    var tabla = document.createElement("table");
+    tabla.id = "tabla_artistas"
+    tabla.style.background = "#f2f2f2"
+     var tableHeader = document.createElement("tr")
+     tableHeader.style.background = "#dddddd"
+      var artistHeader = document.createElement("th")
+      var albumHeader = document.createElement("th")
+      artistHeader.textContent = "Artista"
+      albumHeader.textContent = "Album"
+      tableHeader.append(artistHeader, albumHeader)
+      tabla.append(tableHeader)
+    $.getJSON("vinilos.json", function(data){
+      for(element of data.artists){
+         var fila = document.createElement("tr")
+         fila.style.background = "#ffffff"
+        var columna = document.createElement("td")
+        columna.textContent = element.artist
+        columna.style.textAlign = "center"
+        columna.style.fontSize = "1.5em";
+        fila.append(columna)
+        var albums = document.createElement("td")
+         var nestedTable = document.createElement("table")
+         nestedTable.style.width = "100%"
+        //headers
+        var headerRow = document.createElement("tr")
+         headerRow.style.background = "#dddddd"
+        var titleHeader = document.createElement("th")
+        var yearHeader = document.createElement("th")
+        titleHeader.textContent = "Título"
+        titleHeader.style.textAlign = "center"
+        yearHeader.textContent = "Año"
+        yearHeader.style.textAlign = "center"
+        headerRow.append(titleHeader, yearHeader)
+        nestedTable.append(headerRow)
+        nestedTable.style.borderCollapse = "collapse"
+        nestedTable.style.border = "1px solid black"
+
+        for(album of element.album){
+          var tr = document.createElement("tr")
+           var columna_titulo = document.createElement("td")
+           columna_titulo.className ='text_title'
+           let artist_name = element.artist
+           let artist_album = album.title
+         
+           columna_titulo.textContent = album.title
+            columna_titulo.addEventListener("click", function(){
+            window.open("https://www.discogs.com/es/search?q="+ artist_name+ " "+ artist_album +"&type=all")
+          })
+           var columna_year = document.createElement("td")
+           columna_year.textContent = album.year
+           columna_year.className ='text_year'
+           tr.append(columna_titulo)
+           tr.append(columna_year)
+           nestedTable.append(tr)
+        }
+        albums.append(nestedTable)
+        fila.append(albums)
+        tabla.append(fila)
+      } 
+      document.body.append(tabla)
+    })
+  </script>
+</html>
